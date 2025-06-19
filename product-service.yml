@@ -16,5 +16,5 @@ spring:
     show-sql: true
     database-platform: org.hibernate.dialect.MySQL5Dialect
 
- product:
-   message: "Hello from Product Service Config"
+  product:
+    message: "Hello from Product Service Config"
